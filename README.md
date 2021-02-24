@@ -7,10 +7,10 @@ I'm preparing this because I found it hard to prepare for my Lisp interview as t
 1. What is a symbol?
 2. How does the reader work? Why are symbols always upper-case?
 3. How do generic-functions work? 
-  * What is an applicable method?
-  * What order are methods run in the effective function?
-  * How do we control that order?
-  * What is a method combination? 
+    * What is an applicable method?
+    * What order are methods run in the effective function?
+    * How do we control that order?
+    * What is a method combination? 
 5. How do we organise code in Lisp?
 6. What is a pathname? 
 7. What's the simplest way to create and use a set?
